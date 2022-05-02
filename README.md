@@ -7,17 +7,27 @@ If a company can predict a user’s lifetime value successfully, it provides mar
 
 # CALCULATION
  CLTV = (Customer Value / Churn Rate) * Profit Margin
+ 
  Customer Value = Average Order Value * Purchase Frequency
+ 
  Avarage Order Value = Total Price / Total Transaction
- Purchase Frequency = Total Transaction / Total Number of Customers
+
+ Purchase Frequency = Total Transaction / Total Number of Customer
+ 
  Churn Rate = 1 - Repeat Rate
+ 
  Repeat Rate = Number of customers making multiple purchases / Total number of customers
+ 
  Profit Margin = Total Price * 0.10
 
 # PREDICTION
+ 
  CLTV = (Customer Value / Churn Rate) * Profit Margin
+ 
  Customer Value = Purchase Frequency * Average Order Value
+ 
  CLTV = Expected Number of Transaction * Expected Avarage Profit
+ 
  CLTV = BGNBD Model * Gamma Gamma Model
 
 # Business Problem
