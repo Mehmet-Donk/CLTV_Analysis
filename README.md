@@ -1,4 +1,5 @@
-![1_e2RguMEZk5CpoGLZgn0csw](https://user-images.githubusercontent.com/84506176/167095543-870d3ef8-2bb2-429e-8ff1-cf4a9e69f602.jpg)
+![CLTV](https://user-images.githubusercontent.com/84506176/167095841-1c77ed79-0122-4440-8a8c-16af9e4ad56f.png)
+
 
 #  CLTV Prediction with BG-NBD and Gamma-Gamma
 
