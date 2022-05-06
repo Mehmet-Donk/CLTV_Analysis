@@ -1,3 +1,5 @@
+![1_e2RguMEZk5CpoGLZgn0csw](https://user-images.githubusercontent.com/84506176/167095543-870d3ef8-2bb2-429e-8ff1-cf4a9e69f602.jpg)
+
 #  CLTV Prediction with BG-NBD and Gamma-Gamma
 
 # What is CLTV (Customer Life Time Value)?
